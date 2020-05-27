@@ -1,7 +1,7 @@
 # Bubble-Sort
 In this project the bubble sort algorithm is implemented. It was focused on the use of yield and passing a block to a method.
 
-![screenshot](/screenshot.png)
+![screenshot]()
 
 ## Built With
 
@@ -18,7 +18,7 @@ To get a local copy up and running follow these simple example steps.
 - Have Ruby installed.
 
 
-## Authors
+## Author
 
 👤 **Álvaro Ruiz**
 
