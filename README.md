@@ -1,7 +1,7 @@
 # Bubble-Sort
 In this project the bubble sort algorithm is implemented. It was focused on the use of yield and passing a block to a method.
 
-![screenshot]()
+![screenshot](/screenshot.png)
 
 ## Built With
 
